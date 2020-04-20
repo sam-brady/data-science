@@ -3,8 +3,8 @@
 
 1) Data Visualization & EDA
 2) Feature Engineering & More EDA
-3) Predict the features of a hit song in 2020 with Multiple Linear Regression & K Nearest Neighbors
-4) Predict the features of a hit song in 2020 with Keras Deep Learning & K Nearest Neighbors
+3) Predict the features of a hit song in 2020 with Multiple Linear Regression using yearly trends & K Nearest Neighbors
+4) Predict the features of a hit song in 2020 with Keras Deep Learning using Popularity score & K Nearest Neighbors
 5) KMeans Clustering to generate playlists
 
 This is a multi target regression problem. 
