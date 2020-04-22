@@ -10,9 +10,9 @@
 7) K Means Clustering to generate playlists
 
 This is a multi target regression problem. 
-For this project I use multiple linear regression and predicting over the yearly trend for a decade of Spotify hits to find the audio characteristics of a hit song in 2020. Then I use KNN to select an exemplar song from the dataset with these characteristics. 
-Next I use Deep Learning to predict a hit song's characteristics but this time using the Popularity score. Again KNN is used to find and exemplar song from the dataset.
-In the end both methods and algorithms select the same song! Which is truly remarkable!
+For this project I use a few different types of regression, predicting over the yearly trend for a decade of Spotify hits, to find the audio characteristics of a hit song in 2020. Then I use KNN with k=1 to select an exemplar song from the dataset with these characteristics. 
+Next I use Deep Learning to predict a hit song's characteristics, first with yearly trends then using the Popularity score. Again KNN is used to find and exemplar song from the dataset with k=1.
+In the end most methods and algorithms select the same song! Which is truly remarkable!
 
 
 ![Image description](https://github.com/sam-brady/spotify-how-to-write-a-hit-song/blob/master/images/Screen%20Shot%202020-04-17%20at%206.58.57%20AM.png)
