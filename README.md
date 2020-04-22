@@ -4,8 +4,10 @@
 1) Data Visualization & EDA
 2) Feature Engineering & More EDA
 3) Predict the features of a hit song in 2020 with Multiple Linear Regression using yearly trends & K Nearest Neighbors
-4) Predict the features of a hit song in 2020 with Keras Deep Learning using Popularity score & K Nearest Neighbors
-5) KMeans Clustering to generate playlists
+4) Predict the features of a hit song in 2020 with Random Forest Regression using yearly trends & K Nearest Neighbors
+5) Predict the features of a hit song in 2020 with Keras Deep Learning using yearly trends & K Nearest Neighbors
+6) Predict the features of a hit song in 2020 with Keras Deep Learning using Popularity score & K Nearest Neighbors
+7) K Means Clustering to generate playlists
 
 This is a multi target regression problem. 
 For this project I use multiple linear regression and predicting over the yearly trend for a decade of Spotify hits to find the audio characteristics of a hit song in 2020. Then I use KNN to select an exemplar song from the dataset with these characteristics. 
